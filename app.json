@@ -1,0 +1,9 @@
+{
+  "name": "Telegram_VC_Bot",
+  "description": "Telegram_VC_Bot",
+  "repository": "https://github.com/xfharxx-123/Telegram_VC_Bot/new/master",
+  "keywords": ["node", "express", "bot", "music", "automation"],
+  "builpacks": [
+    { "url": "heroku/python" }
+  ]
+}
